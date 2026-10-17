@@ -293,5 +293,5 @@ After startup, the following default account is available:
 
 ## Team
 
-This project was developed as a **team internship project** during a software development placement program. Each team member contributed to different parts of the system — including backend domain modules, frontend features, GIT integration, security implementation, contract management, and the citizen-facing portal.
+This project was developed as a **team internship project** during a software development placement program. Each team member contributed to different parts of the system — including backend domain modules, frontend features, GIS integration, security implementation, contract management, and the citizen-facing portal.
 
